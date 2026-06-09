@@ -7,6 +7,15 @@ CodeAlpha AI Chatbot is a web-based chatbot developed using HTML, CSS, and JavaS
 This project was developed as part of the CodeAlpha Java Programming Internship.
 
 ---
+## Java Implementation
+
+The project includes a Java console-based chatbot implementation (`ChatBot.java`) demonstrating Java programming concepts such as:
+
+- Conditional Statements
+- Loops
+- User Input Handling
+- String Processing
+- Object-Oriented Structure
 
 ## 🚀 Features
 
@@ -46,7 +55,7 @@ The chatbot can answer questions related to:
 ---
 
 ## 🛠 Technologies Used
-
+- Java
 - HTML5
 - CSS3
 - JavaScript
@@ -59,6 +68,7 @@ The chatbot can answer questions related to:
 CodeAlpha_AIChatbot
 │
 ├── index.html
+|-- Chatbot.java
 ├── style.css
 ├── script.js
 └── README.md
